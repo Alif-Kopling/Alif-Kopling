@@ -40,10 +40,11 @@
 
 ---
 
-### 🎵 Now Playing on Spotify
+### ​ Now Playing on Spotify🎵
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31hkgspwq5xpjmxlw7jjz7z65cvi&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=3154a7o62h5rhj6l2c2ab2gfpysq&cover_image=true&theme=novatorem&bar_color=gold&bar_color_cover=true" alt="Spotify Now Playing" />
 </div>
+
 
 ---
 
