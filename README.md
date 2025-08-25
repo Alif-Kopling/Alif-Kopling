@@ -5,6 +5,7 @@
 
 ## 💖 My Bini
 <p align="center">Lihat lah my bini yang cantik:</p>
+<p align="center"> ih malu" dia ternyata🤭</p>
 
 <div align="center">
   <img src="https://media1.tenor.com/m/NU-qNSGdB_4AAAAC/sealyx-alya-sometimes-hides-her-feelings-in-russian.gif" 
