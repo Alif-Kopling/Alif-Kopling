@@ -33,20 +33,6 @@
 
 ---
 
-### 🔥 Streak Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Alif-kopling&theme=tokyonight&hide_border=true" height="150" alt="streak stats"/>
-</div>
-
----
-
-### ​ Now Playing on Spotify🎵
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=3154a7o62h5rhj6l2c2ab2gfpysq&cover_image=true&theme=novatorem&bar_color=gold&bar_color_cover=true" alt="Spotify Now Playing" />
-</div>
-
-
----
 
 ### 💖 My Queen
 <h3 align="center">Lihat lah my bini yang cantik:</h3>
