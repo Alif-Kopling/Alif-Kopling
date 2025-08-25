@@ -25,6 +25,28 @@
 
 ---
 
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME-LO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME-LO&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+### 🔥 Streak Stats
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=USERNAME-LO&theme=tokyonight&hide_border=true" height="150" alt="streak stats"/>
+</div>
+
+---
+
+### 🎵 Now Playing on Spotify
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31hkgspwq5xpjmxlw7jjz7z65cvi&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing"/>
+</div>
+
+---
+
 ### 💖 My Queen
 <h3 align="center">Lihat lah my bini yang cantik:</h3>
 
