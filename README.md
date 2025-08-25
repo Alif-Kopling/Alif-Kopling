@@ -14,6 +14,13 @@
 
 ---
 
+
+🎧 Check out my playlist:
+[My Spotify Playlist](https://open.spotify.com/playlist/2qHT67jJoRPc3M7IGsoUDM?si=3k1JsR6_TfKpYFDOZx7qBg)
+
+
+---
+
 ### 🛠️ Languages & Tools
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
