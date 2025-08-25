@@ -27,15 +27,15 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME-LO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME-LO&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alif-Kopling&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alif-Kopling&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 ---
 
 ### 🔥 Streak Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME-LO&theme=tokyonight&hide_border=true" height="150" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com?user=Alif-kopling&theme=tokyonight&hide_border=true" height="150" alt="streak stats"/>
 </div>
 
 ---
@@ -51,6 +51,5 @@
 <h3 align="center">Lihat lah my bini yang cantik:</h3>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/NU-qNSGdB_4AAAAC/sealyx-alya-sometimes-hides-her-feelings-in-russian.gif" width="600" style="border-radius:15px; box-shadow: 0px 0px 20px rgba(255,215,0,0.6);" />
+  <img src="https://media1.tenor.com/m/NU-qNSGdB_4AAAAC/sealyx-alya-sometimes-hides-her-feelings-in-russian.gif" width="800" style="border-radius:15px; box-shadow: 0px 0px 25px rgba(255,215,0,0.8);" />
 </div>
-
