@@ -54,3 +54,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alif-Kopling&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
 </div>
 
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Alif-Kopling&color=00ffe0&style=flat-square&label=PROFILE+VIEWS)
+---
