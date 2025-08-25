@@ -14,9 +14,12 @@
 
 ---
 
-
-🎧 Check out my playlist:
-[My Spotify Playlist](https://open.spotify.com/playlist/2qHT67jJoRPc3M7IGsoUDM?si=3k1JsR6_TfKpYFDOZx7qBg)
+### 🎧 My Spotify Playlist
+<div align="center">
+  <a href="https://open.spotify.com/playlist/2qHT67jJoRPc3M7IGsoUDM?si=3k1JsR6_TfKpYFDOZx7qBg" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111624.png" alt="Spotify Logo" width="100"/>
+  </a>
+</div>
 
 
 ---
