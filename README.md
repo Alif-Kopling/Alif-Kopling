@@ -3,6 +3,17 @@
 
 ---
 
+
+### 💖 My Bini
+<h3 align="center">Lihat lah my bini yang cantik:</h3>
+
+<div align="center">
+  <img src="https://media1.tenor.com/m/NU-qNSGdB_4AAAAC/sealyx-alya-sometimes-hides-her-feelings-in-russian.gif" width="800" style="border-radius:15px; box-shadow: 0px 0px 25px rgba(255,215,0,0.8);" />
+</div>
+
+
+---
+
 ### 🛠️ Languages & Tools
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
@@ -31,12 +42,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alif-Kopling&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
 </div>
 
----
-
-
-### 💖 My Queen
-<h3 align="center">Lihat lah my bini yang cantik:</h3>
-
-<div align="center">
-  <img src="https://media1.tenor.com/m/NU-qNSGdB_4AAAAC/sealyx-alya-sometimes-hides-her-feelings-in-russian.gif" width="800" style="border-radius:15px; box-shadow: 0px 0px 25px rgba(255,215,0,0.8);" />
-</div>
