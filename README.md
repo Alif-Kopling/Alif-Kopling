@@ -1,4 +1,4 @@
-<h2 align="left">hii guys 👋 my name is al.<br>currently respawning as a rookie coder 🚶‍♂️💻<br>still lvl 1, so I could use some pro tips</h2>
+<h2 align="left">hii everyone 👋 my name is al.<br>currently respawning as a rookie coder 🚶‍♂️💻<br>still lvl 1, so I could use some pro tips</h2>
 
 ###
 
