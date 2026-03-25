@@ -103,14 +103,11 @@ const developer = {
 
 ## 🏆 Achievement Unlocked
 
-<div align="center">
-### 🎖️ Certifications (Self-Proclaimed)
+###🎖️ Certifications (Self-Proclaimed)
 - 🥇 **Professional Procrastinator** - Completed 0 tasks on time
 - 🥇 **Stack Overflow Legend** - 10k+ reputation (in dreams)
 - 🥇 **Coffee Sommelier** - Can detect roast level by smell
 - 🥇 **Bug Creator** - I make them, QA finds them, we cry together
-
-</div>
 
 ---
 
