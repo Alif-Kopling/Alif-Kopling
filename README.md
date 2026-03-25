@@ -183,7 +183,6 @@ const developer = {
 
 ### ⭐ by Alif-Kopling
 
-![Visitor Counter](https://profile-counter.glitch.me/Alif-Kopling/count.svg)
 
 ### 🌟 If you like what you see, consider starring this repo!
 ### 🚀 Or follow me for more code & memes
