@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/visitors-count-badge.svg?username=Alif-Kopling)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Alif-Kopling.Alif-Kopling)
 ![GitHub Stars](https://img.shields.io/github/stars/Alif-Kopling?style=social)
 ![Followers](https://img.shields.io/github/followers/Alif-Kopling?style=social)
 
@@ -181,14 +181,14 @@ const developer = {
 
 <div align="center">
 
-### ⭐ Made with ❤️, ☕, and 🐛 by Alif-Kopling
+### ⭐ by Alif-Kopling
 
 ![Visitor Counter](https://profile-counter.glitch.me/Alif-Kopling/count.svg)
 
 ### 🌟 If you like what you see, consider starring this repo!
 ### 🚀 Or follow me for more code & memes
 
-![Footer](https://capsule-render.vercel.app/api?type=footprint&theme=radical)
+![Snake Animation](https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg)
 
 ```
 Thanks for visiting! Come back soon! 👋
