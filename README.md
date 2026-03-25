@@ -104,9 +104,6 @@ const developer = {
 ## 🏆 Achievement Unlocked
 
 <div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Alif-Kopling&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### 🎖️ Certifications (Self-Proclaimed)
 - 🥇 **Professional Procrastinator** - Completed 0 tasks on time
 - 🥇 **Stack Overflow Legend** - 10k+ reputation (in dreams)
