@@ -115,7 +115,7 @@ const developer = {
 
 <div align="center">
 
-![Coding Meme](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Coding Meme](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDg5aGtxcW80ZWRyNzhxbGphdzhvYm1iNmZ0N3piMnpweGY4dWsybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XHroGvuhnDUasQCqOr/giphy.gif)
 
 ### Common Developer Problems:
 
