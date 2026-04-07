@@ -43,8 +43,6 @@ const developer = {
 
 <div align="center">
 
-![Coding Meme](https://media.giphy.com/media/LmcSmpBZkpccOYRv3S/giphy.gif)
-
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRwaHNmc3Q4ejNpMXVsNTFzNXFtYnprM3NveXN4NjA3NTlidzRjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y5GlGjo5ut42cMEapq/giphy.giff" width="500" />
 
 
