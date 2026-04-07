@@ -45,6 +45,10 @@ const developer = {
 
 ![Coding Meme](https://media.giphy.com/media/LmcSmpBZkpccOYRv3S/giphy.gif)
 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRwaHNmc3Q4ejNpMXVsNTFzNXFtYnprM3NveXN4NjA3NTlidzRjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y5GlGjo5ut42cMEapq/giphy.giff" width="500" />
+
+
+
 > *"I don't always test my code, but when I do, I do it in production"*
 > 
 > — Some Developer, Probably Me
@@ -55,10 +59,6 @@ const developer = {
 - ✅ Copy-pasting from Stack Overflow (certified)
 - ✅ Pretending I understand the documentation
 - ✅ Blaming the browser when things break
-
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFjNm5sOG8zbDZ5Z2tqMTByYmlxMXhvMTVyZmRzYzUyaGVyamZidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WndVjjHMZ8dAh9TrhP/giphy.gif" width="500" />
-
 
 </div>
 
