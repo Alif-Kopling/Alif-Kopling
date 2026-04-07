@@ -115,23 +115,25 @@ const developer = {
 
 <div align="center">
 
-![Coding Meme](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDg5aGtxcW80ZWRyNzhxbGphdzhvYm1iNmZ0N3piMnpweGY4dWsybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XHroGvuhnDUasQCqOr/giphy.gif)
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDg5aGtxcW80ZWRyNzhxbGphdzhvYm1iNmZ0N3piMnpweGY4dWsybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XHroGvuhnDUasQCqOr/giphy.gif" width="300" />
 
-### Common Developer Problems:
+### 🧠 Common Developer Problems
 
-| Problem | Solution |
-|---------|----------|
-| Code doesn't work | Add `console.log()` |
-| Still doesn't work | Add more `console.log()` |
-| Can't find bug | It was a typo |
-| Code works perfectly | Don't touch it |
-| Need to fix bug | Rewrite everything |
+| 🐛 Problem              | 💡 Solution                     |
+|------------------------|--------------------------------|
+| Code doesn't work      | Add `console.log()`            |
+| Still doesn't work     | Add more `console.log()`       |
+| Can't find the bug     | It was a typo 😐               |
+| Code works perfectly   | Don't touch it 🚫              |
+| Need to fix a bug      | Rewrite everything 🔥          |
 
-> "99 little bugs in the code, 99 little bugs. Take one down, patch it around, 127 little bugs in the code." 🐛
+<br/>
 
-</div>
+> _"99 little bugs in the code, 99 little bugs.  
+> Take one down, patch it around...  
+> 127 little bugs in the code."_ 🐛
 
----
+</div>---
 
 ## 📫 Connect With Me (I Don't Bite)
 
