@@ -36,7 +36,6 @@ const developer = {
 
 // Status: Currently debugging life.exe
 ```
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFjNm5sOG8zbDZ5Z2tqMTByYmlxMXhvMTVyZmRzYzUyaGVyamZidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WndVjjHMZ8dAh9TrhP/giphy.gif" width="500" />
 
 ---
 
@@ -45,6 +44,8 @@ const developer = {
 <div align="center">
 
 ![Coding Meme](https://media.giphy.com/media/LmcSmpBZkpccOYRv3S/giphy.gif)
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFjNm5sOG8zbDZ5Z2tqMTByYmlxMXhvMTVyZmRzYzUyaGVyamZidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WndVjjHMZ8dAh9TrhP/giphy.gif" width="500" />
+
 
 > *"I don't always test my code, but when I do, I do it in production"*
 > 
