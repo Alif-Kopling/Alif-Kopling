@@ -43,7 +43,7 @@ const developer = {
 
 <div align="center">
 
-<img src="<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRwaHNmc3Q4ejNpMXVsNTFzNXFtYnprM3NveXN4NjA3NTlidzRjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y5GlGjo5ut42cMEapq/giphy.gif" width="500" />" width="500" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRwaHNmc3Q4ejNpMXVsNTFzNXFtYnprM3NveXN4NjA3NTlidzRjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y5GlGjo5ut42cMEapq/giphy.gif" width="500" />
 
 
 
