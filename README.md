@@ -100,9 +100,17 @@ const developer = {
 ![npx](https://img.shields.io/badge/npx-000000?style=for-the-badge&logo=npm&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+### 🤖 AI Tech Stack
 
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-FF6B6B?style=for-the-badge)
+![Qwen](https://img.shields.io/badge/Qwen-1E90FF?style=for-the-badge)
+
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 </div>
-
 ---
 
 ## 📊 GitHub Stats (The Numbers Game)
