@@ -84,6 +84,9 @@ const developer = {
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
 
 
+
+
+
 ### 🧰 Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
