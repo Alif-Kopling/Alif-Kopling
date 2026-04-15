@@ -153,12 +153,8 @@ const developer = {
 ## ☕ Support My Caffeine Addiction
 
 <div align="center">
-
-![Coffee](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Alif-Kopling)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Alif-Kopling)
-[![Saweria](https://img.shields.io/badge/Saweria-FFA500?style=for-the-badge&logo=ko-fi&logoColor=white)](https://saweria.co/AlifKopling)
+    
+[![Saweria](https://img.shields.io/badge/Saweria-FFA500?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://saweria.co/AlifKopling](https://saweria.co/Alxyzz))
 
 *Every coffee keeps my code running!* ☕
 
