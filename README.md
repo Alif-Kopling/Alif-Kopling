@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alif-Kopling
+# 👋 Hi, I'm Alif 
 
 <div align="center">
 
@@ -23,7 +23,7 @@
 
 ```javascript
 const developer = {
-    name: "Alif-Kopling",
+    name: "Alif",
     location: "Indonesia 🇮🇩",
     species: "Human (probably)",
     passion: ["Coding", "Building", "Learning", "Staring at bugs"],
