@@ -2,7 +2,7 @@
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Alif-Kopling&label=Profile%20views&color=00FFFF&style=flat-square" alt="Alif-Kopling's profile views" />
-![Followers](https://img.shields.io/github/followers/Alif-Kopling?style=social)
+
 
 ---
 
