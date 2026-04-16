@@ -6,7 +6,7 @@
 
 ---
 
-### 🚀 Frontend Developer | 🎨 Professional Debuggers | ☕ Coffee-to-Code Converter
+### 🚀 Frontend Developer | 🎨 Professional Debuggers | ☕ Nasgor-to-Code Converter
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alif-Kopling)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alif-kopling)
@@ -27,7 +27,7 @@ const developer = {
     passion: ["Coding", "Building", "Learning", "Staring at bugs"],
     currentlyWorkingOn: "Making computers do my bidding",
     askMeAbout: ["Web Dev", "Tech", "Open Source", "Why my code works"],
-    funFact: "I turn coffee into code ☕ → 💻",
+    funFact: "I turn nasgor into code ☕ → 💻",
     bugsProduced: Infinity,
     sleepSchedule: "404 Not Found"
 };
@@ -134,7 +134,7 @@ const developer = {
 ###🎖️ Certifications (Self-Proclaimed)
 - 🥇 **Professional Procrastinator** - Completed 0 tasks on time
 - 🥇 **Stack Overflow Legend** - 10k+ reputation (in dreams)
-- 🥇 **Coffee Sommelier** - Can detect roast level by smell
+- 🥇 **Nasgor Sommelier** - Can detect roast level by smell
 - 🥇 **Bug Creator** - I make them, QA finds them, we cry together
 
 ---
@@ -176,14 +176,13 @@ const developer = {
 </div>
 
 ---
-
-## ☕ Support My Caffeine Addiction
+##Suport me
 
 <div align="center">
     
 [![Saweria](https://img.shields.io/badge/Saweria-FFA500?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://saweria.co/AlifKopling](https://saweria.co/Alxyzz))
 
-*Every coffee keeps my code running!* ☕
+*Every Nasgor keeps my code running!*
 
 </div>
 ---
