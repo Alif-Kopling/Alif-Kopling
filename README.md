@@ -1,8 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Akxyzz&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Frontend%20Dev&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 <div align="center">
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Alif-Kopling.Alif-Kopling)
-![GitHub Stars](https://img.shields.io/github/stars/Alif-Kopling?style=social)
+<img src="https://komarev.com/ghpvc/?username=Alif-Kopling&label=Profile%20views&color=00FFFF&style=flat-square" alt="Alif-Kopling's profile views" />
 ![Followers](https://img.shields.io/github/followers/Alif-Kopling?style=social)
 
 ---
