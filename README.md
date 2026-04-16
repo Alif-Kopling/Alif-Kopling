@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 Full Stack Developer | 🎨 Professional Debuggers | ☕ Coffee-to-Code Converter
+### 🚀 Frontend Developer | 🎨 Professional Debuggers | ☕ Coffee-to-Code Converter
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alif-Kopling)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alif-kopling)
@@ -112,14 +112,22 @@ const developer = {
 </div>
 ---
 
-## 📊 GitHub Stats (The Numbers Game)
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alif-Kopling&theme=radical)
-
+## 📊 GitHub Stats 
+<div>
+<p align="center">
+  <a href="https://github.com/Alif-Kopling">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Alif-Kopling&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="Alif-Kopling's GitHub Stats" />
+  </a>
 </div>
-
+    <div >
+        <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Alif-Kopling&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Alif-Kopling's GitHub Streak" width="49%" />
+</p>
+    </div>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Alif-Kopling&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Akxyzz's GitHub Trophies" />
+</p>
+</div>
 ---
 
 ## 🏆 Achievement Unlocked
@@ -179,31 +187,14 @@ const developer = {
 *Every coffee keeps my code running!* ☕
 
 </div>
-
 ---
 
-## 📈 Activity Graph (Proof I Code Sometimes)
 
-<div align="center">
-
-![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alif-Kopling&theme=radical)
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ by Alif-Kopling
-
-
-### 🌟 If you like what you see, consider starring this repo!
-### 🚀 Or follow me for more code & memes
-
-![Snake Animation](https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg)
-
-```
+![Top language](https://stats.pphat.top/languages?username=Alif-Kopling)
+<br/>
 Thanks for visiting! Come back soon! 👋
+### ⭐ by Alxyzz
+
 ```
 
 </div>
