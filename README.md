@@ -115,7 +115,7 @@ const developer = {
 <div>
 <p align="center">
   <a href="https://github.com/Alif-Kopling">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Todzxx&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="Todzxx's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Alif-Kopling&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="Alif-Kopling's GitHub Stats" />
   </a>
 </div>
     <div >
