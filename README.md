@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Akxyzz&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Frontend%20Dev&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Alxyzz&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Frontend%20Dev&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Alif-Kopling&label=Profile%20views&color=00FFFF&style=flat-square" alt="Alif-Kopling's profile views" />
