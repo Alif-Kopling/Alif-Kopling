@@ -17,50 +17,27 @@
 
 ---
 
-## 🎭 About Me (The Serious Version)
+## 🎭 About Me
 
 ```javascript
 const developer = {
     name: "Alif",
-    location: "Indonesia 🇮🇩",
-    species: "Human (probably)",
-    passion: ["Coding", "Building", "Learning", "Staring at bugs"],
-    currentlyWorkingOn: "Making computers do my bidding",
-    askMeAbout: ["Web Dev", "Tech", "Open Source", "Why my code works"],
-    funFact: "I turn nasgor into code ☕ → 💻",
-    bugsProduced: Infinity,
-    sleepSchedule: "404 Not Found"
+    location: "Indonesia",
+    role: "Frontend Developer",
+    focus: ["Web Development", "UI Implementation", "Performance Optimization"],
+    currentlyLearning: ["Advanced React", "TypeScript", "System Design"],
+    interests: ["Technology", "Open Source", "Continuous Learning"]
 };
-
-// Status: Currently debugging life.exe
 ```
 
 ---
 
-## 🎭 About Me (The Real Version)
+## 🛠️ Tech Stack (Things I Use)
 
 <div align="center">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRwaHNmc3Q4ejNpMXVsNTFzNXFtYnprM3NveXN4NjA3NTlidzRjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y5GlGjo5ut42cMEapq/giphy.gif" width="500" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRwaHNmc3Q4ejNpMXVsNTFzNXFtYnprM3NveXN4NjA3NTlidzRjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y5GlGjo5ut42cMEapq/giphy.gif" width="300" />
 
-
-
-> *"I don't always test my code, but when I do, I do it in production"*
-> 
-> — Some Developer, Probably Me
-
-**Professional at:**
-- ✅ Writing code that works (sometimes)
-- ✅ Googling error messages (expert level)
-- ✅ Copy-pasting from Stack Overflow (certified)
-- ✅ Pretending I understand the documentation
-- ✅ Blaming the browser when things break
-
-</div>
-
----
-
-## 🛠️ Tech Stack (Things I Use)
 
 <div align="center">
 
@@ -109,6 +86,7 @@ const developer = {
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 </div>
+
 ---
 
 ## 📊 GitHub Stats 
@@ -127,17 +105,9 @@ const developer = {
   <img src="https://trophy.ryglcloud.net/?username=Alif-Kopling&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Akxyzz's GitHub Trophies" />
 </p>
 </div>
----
-
-## 🏆 Achievement Unlocked
-
-###🎖️ Certifications (Self-Proclaimed)
-- 🥇 **Professional Procrastinator** - Completed 0 tasks on time
-- 🥇 **Stack Overflow Legend** - 10k+ reputation (in dreams)
-- 🥇 **Nasgor Sommelier** - Can detect roast level by smell
-- 🥇 **Bug Creator** - I make them, QA finds them, we cry together
 
 ---
+
 
 ## 💬 Programming Humor
 
@@ -161,7 +131,9 @@ const developer = {
 > Take one down, patch it around...  
 > 127 little bugs in the code."_ 🐛
 
-</div>---
+</div>
+
+---
 
 ## 📫 Connect With Me (I Don't Bite)
 
