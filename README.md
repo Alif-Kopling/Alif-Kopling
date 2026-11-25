@@ -27,6 +27,7 @@ const developer = {
     focus: ["Web Development", "UI Implementation", "Performance Optimization"],
     currentlyLearning: ["Advanced React", "TypeScript", "System Design"],
     interests: ["Technology", "Open Source", "Continuous Learning"]
+    work experience: PT.GoThru Media Indonesia [PKL]
 };
 ```
 
